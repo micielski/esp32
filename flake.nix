@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "../esp32/.";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
   };
 
   outputs = {
